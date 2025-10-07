@@ -1,0 +1,13 @@
+sphinx>=7
+myst-parser
+nbsphinx
+sphinx-book-theme
+jupyter
+nbconvert
+
+# bibliotecas para notebooks
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn

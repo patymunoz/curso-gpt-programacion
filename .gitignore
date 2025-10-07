@@ -1,0 +1,6 @@
+# Sphinx
+docs/_build/
+# Jupyter
+**/.ipynb_checkpoints/
+# Entorno
+.venv/
