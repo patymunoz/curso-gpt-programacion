@@ -1,4 +1,4 @@
-# Curso de Machine Learning en Python
+# Curso de GTPs y su aplicación en la programación
 
 ## Presentación del curso
 
@@ -14,6 +14,7 @@ Los contenidos del curso puedes encontrarlos en la parte izquierda de esta pági
 :caption: Contenidos
 
 guia/intro
+guia/01-fundamentos-preparacion
 
 ```
 
